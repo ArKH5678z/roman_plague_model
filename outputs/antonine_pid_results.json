@@ -1,0 +1,13 @@
+{
+    "scenario": "Antonine",
+    "start_city": "Roma",
+    "start_year": 165,
+    "days": 365,
+    "beta_base": 0.45,
+    "gamma_base": 0.03,
+    "use_pid": true,
+    "settlements_affected": 162,
+    "peak_infections": 65,
+    "day_of_peak": 16,
+    "final_recovered": 162
+}

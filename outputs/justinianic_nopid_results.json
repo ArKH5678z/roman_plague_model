@@ -1,0 +1,16 @@
+{
+    "scenario": "Justinianic",
+    "start_city": "Alexandria",
+    "start_year": 541,
+    "days": 365,
+    "beta_base": 0.75,
+    "gamma_base": 0.015,
+    "use_pid": false,
+    "network_edges": 476,
+    "climate_beta_modifier": 1.1485777777777777,
+    "climate_gamma_modifier": 0.8811377777777778,
+    "settlements_affected": 79,
+    "peak_infections": 38,
+    "day_of_peak": 19,
+    "final_recovered": 78
+}

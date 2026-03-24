@@ -1,0 +1,26 @@
+{
+    "antonine": {
+        "pid": 157,
+        "no_pid": 249,
+        "peak_pid": 78,
+        "peak_no_pid": 94,
+        "pid_std": 36,
+        "nopid_std": 30
+    },
+    "cyprian": {
+        "pid": 63,
+        "no_pid": 64,
+        "peak_pid": 34,
+        "peak_no_pid": 35,
+        "pid_std": 19,
+        "nopid_std": 23
+    },
+    "justinianic": {
+        "pid": 64,
+        "no_pid": 60,
+        "peak_pid": 44,
+        "peak_no_pid": 42,
+        "pid_std": 25,
+        "nopid_std": 23
+    }
+}

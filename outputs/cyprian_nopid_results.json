@@ -1,0 +1,14 @@
+{
+    "scenario": "Cyprian",
+    "start_city": "Alexandria",
+    "start_year": 249,
+    "days": 365,
+    "beta_base": 0.6,
+    "gamma_base": 0.02,
+    "use_pid": false,
+    "network_edges": 504,
+    "settlements_affected": 101,
+    "peak_infections": 47,
+    "day_of_peak": 76,
+    "final_recovered": 101
+}

@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.zip
+*.nc
+*.RData
+*.R
+data/data/
+data/metadata/
+data/manifest.json
