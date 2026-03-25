@@ -119,8 +119,13 @@ python scenarios/justinianic.py
 
 ## Citation
 If using this project please cite the PAGES2k dataset:
-Neukom, R. et al. (2019). Consistent multidecadal variability in global 
-temperature reconstructions and simulations over the Common Era. 
-Nature Geoscience, 12. DOI: 10.1038/s41561-019-0400-0
+- **PAGES2k Common Era Surface Temperature Reconstructions**: 
+  Neukom, R. et al. (2019). Consistent multidecadal variability in global 
+  temperature reconstructions and simulations over the Common Era. 
+  Nature Geoscience, 12. DOI: 10.1038/s41561-019-0400-0
+  Retrieved from NOAA National Centers for Environmental Information, 
+  17 March 2026. https://www.ncei.noaa.gov/access/paleo-search/study/26872
+  **ORBIS Roman Network (gorbit)**: Heath, S. (2016). gorbit: ORBIS data as a graph. 
+  GitHub repository. https://github.com/sfsheath/gorbit
 
 Khider, Deborah & Emile‐Geay, Julien & Zhu, Feng & James, Alexander & Landers, Jordan & Ratnakar, Varun & Gil, Yolanda. (2022). Pyleoclim: Paleoclimate Timeseries Analysis and Visualization With Python. Paleoceanography and Paleoclimatology. 37. 10.1029/2022PA004509. 
