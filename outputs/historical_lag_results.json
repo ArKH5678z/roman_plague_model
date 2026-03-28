@@ -1,0 +1,48 @@
+{
+    "modelled": {
+        "Antonine": {
+            "pid": 157,
+            "no_pid": 249,
+            "peak_pid": 78,
+            "peak_no_pid": 94,
+            "pid_std": 36
+        },
+        "Cyprian": {
+            "pid": 67,
+            "no_pid": 68,
+            "peak_pid": 33,
+            "peak_no_pid": 36,
+            "pid_std": 23
+        },
+        "Justinianic": {
+            "pid": 71,
+            "no_pid": 67,
+            "peak_pid": 44,
+            "peak_no_pid": 43,
+            "pid_std": 20
+        }
+    },
+    "historical": {
+        "Antonine": {
+            "pid": 194,
+            "no_pid": 218,
+            "peak_pid": 86,
+            "peak_no_pid": 81,
+            "pid_std": 32
+        },
+        "Cyprian": {
+            "pid": 75,
+            "no_pid": 71,
+            "peak_pid": 38,
+            "peak_no_pid": 35,
+            "pid_std": 22
+        },
+        "Justinianic": {
+            "pid": 69,
+            "no_pid": 67,
+            "peak_pid": 42,
+            "peak_no_pid": 41,
+            "pid_std": 21
+        }
+    }
+}
