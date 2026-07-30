@@ -130,3 +130,6 @@ If using this project please cite the PAGES2k dataset:
   GitHub repository. https://github.com/sfsheath/gorbit
 
 Khider, Deborah & Emile‐Geay, Julien & Zhu, Feng & James, Alexander & Landers, Jordan & Ratnakar, Varun & Gil, Yolanda. (2022). Pyleoclim: Paleoclimate Timeseries Analysis and Visualization With Python. Paleoceanography and Paleoclimatology. 37. 10.1029/2022PA004509. 
+## Acknowledgements
+Developed with assistance from Claude (Anthropic) for code scaffolding,
+debugging, and technical guidance.
