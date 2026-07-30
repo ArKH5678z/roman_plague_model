@@ -1,26 +1,26 @@
 {
     "antonine": {
-        "pid": 157,
-        "no_pid": 249,
-        "peak_pid": 78,
-        "peak_no_pid": 94,
-        "pid_std": 36,
-        "nopid_std": 30
+        "pid": 158,
+        "no_pid": 236,
+        "peak_pid": 79,
+        "peak_no_pid": 89,
+        "pid_std": 34,
+        "nopid_std": 40
     },
     "cyprian": {
         "pid": 63,
-        "no_pid": 64,
+        "no_pid": 67,
         "peak_pid": 34,
         "peak_no_pid": 35,
-        "pid_std": 19,
-        "nopid_std": 23
+        "pid_std": 18,
+        "nopid_std": 21
     },
     "justinianic": {
-        "pid": 64,
-        "no_pid": 60,
-        "peak_pid": 44,
-        "peak_no_pid": 42,
-        "pid_std": 25,
-        "nopid_std": 23
+        "pid": 68,
+        "no_pid": 68,
+        "peak_pid": 43,
+        "peak_no_pid": 45,
+        "pid_std": 23,
+        "nopid_std": 22
     }
 }

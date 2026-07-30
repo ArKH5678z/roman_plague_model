@@ -23,7 +23,7 @@ MODELLED_LAGS = {
     'Justinianic': 45
 }
 
-N_RUNS = 20
+N_RUNS = 100
 
 def run_with_lag(run_func, lag, n_runs=N_RUNS):
     pid_affected = []

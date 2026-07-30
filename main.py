@@ -21,7 +21,7 @@ print("\nRunning all scenarios...")
 
 results = {}
 
-N_RUNS = 20  # number of Monte Carlo runs
+N_RUNS = 100 # number of Monte Carlo runs
 
 def monte_carlo(run_func, n_runs=N_RUNS):
     pid_affected = []
